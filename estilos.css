@@ -1,0 +1,76 @@
+/* -- Header -- */
+.navbar{
+	margin-bottom: 0;
+	background: #565656;
+	color: #c09f80;
+}
+
+.jumbotron{
+	background: #76323f;
+	color: #c09f80;
+	padding: 10px 0;
+}
+
+.jumbotron .titulo-main{
+	font-size: 60px;
+	margin-bottom: 0;
+}
+
+.header-contact {
+    color: #76323f;
+    font-size: 27px;
+    padding: 10px;
+}
+
+.glyphicon {
+    font-size: 35px;
+    color: #76323f;
+}
+
+.main{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.post{
+	padding-bottom: 20px;
+	margin-bottom: 20px;
+	border-bottom: 1px solid #999;
+}
+
+.post .post-title a{
+	color: #c09f80;
+	margin-top: 0px;
+}
+
+.post .thumb{
+	margin-right:10px;
+	margin-left: 10px;
+	width: 50%;
+}
+
+.post .thumb img{
+	width: 100%;
+}
+
+.redes .thumb{
+	margin-right:10px;
+	margin-left: 10px;
+	margin-bottom: 20px;
+	width: 10%;
+}
+
+.redes .thumb img{
+	width: 100%;
+}
+
+.logo .thumb{
+	margin-right:10px;
+	margin-left: 10px;
+	margin-bottom: 20px;
+	width: 50%;
+}
+
+.logo .thumb img{
+	width: 100%;
+}
